@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "name": "f.r.i.d.a.y",
+  "description": "Female Replacement Intelligent Digital Assistant Youth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GugaS1lva/F.R.I.D.A.Y.git"
+  },
+  "keywords": [],
+  "author": "GugaS1lva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GugaS1lva/F.R.I.D.A.Y/issues"
+  },
+  "homepage": "https://github.com/GugaS1lva/F.R.I.D.A.Y#readme"
+}
